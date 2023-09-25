@@ -2,7 +2,7 @@
 
 ### 👀 About Me
 
-I'm passionate about all things frontend! From crafting beautiful user interfaces to optimizing user experiences, I thrive on turning ideas into elegant web solutions. I believe that the web is an ever-evolving canvas for creativity and innovation, and I'm excited to be a part of it.
+I'm passionate about all things frontend! From crafting beautiful user interfaces to optimizing user experiences, I thrive on turning ideas into built projects. I believe that the web is an ever-evolving canvas for creativity and innovation, and I'm excited to be a part of it.
 
 ### 🌱 What I'm Currently Learning
 
