@@ -8,7 +8,8 @@ I'm passionate about building! From designing, coding, crafting beautiful user i
 
 I'm currently on a journey to level up my skills in development. Here are some of the things I'm diving (or soon getting) into:
 
-- Python!
+- Next.js
+- Python
 - TypeScript
 - Exploring the depths of Redux
 - Mastering the MERN stack
