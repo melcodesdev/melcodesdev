@@ -2,21 +2,12 @@
 
 ### About Me
 
-I'm passionate about building! From designing, coding, crafting beautiful user interfaces to optimizing user experiences, I turn ideas into built projects. 
+I'm passionate about building. From designing, coding, crafting beautiful user interfaces to optimizing user experiences, I turn ideas into built projects. 
 
-### What I'm Currently Learning
+### What I'm Currently Working On
 
-I'm currently on a journey to level up my skills in development. Here are some of the things I'm diving (or soon getting) into:
-
-- Next.js
-- Python
-- TypeScript
-- Exploring the depths of Redux
-- Mastering the MERN stack
-- Databases & APIs
-  
-
-Learning is a never-ending process, and I'm constantly seeking ways to expand my knowledge and stay up-to-date with the latest technologies and best practices.
+- Three website projects
+- A game project
 
 ### Let's Collaborate
 
