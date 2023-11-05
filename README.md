@@ -6,8 +6,7 @@ I'm passionate about building. From designing, coding, crafting beautiful user i
 
 ### What I'm Currently Working On
 
-- Three website projects
-- A game project
+- Game and site projects
 
 ### Let's Collaborate
 
