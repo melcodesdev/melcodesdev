@@ -10,7 +10,7 @@ I'm passionate about building. From designing, coding, crafting beautiful user i
 
 ### Let's Collaborate
 
-I'm always open to exciting collaborations on development projects. Whether you need help or want to brainstorm ideas and solutions, feel free to reach out. Let's create something amazing together!
+I'm always open to exciting collaborations on development projects, feel free to reach out. Let's create something amazing together!
 
 ### Get in Touch
 
