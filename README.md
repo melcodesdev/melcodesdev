@@ -2,7 +2,8 @@
 
 ### About Me
 
-I do web, app, and games design and development. When I don't, I bike through hills, forests, and ricefields, or cook. @melcodesdev
+I do web, app, and games design and development. When I don't, I bike through hills, forests, and ricefields, or cook. 
+@melcodesdev
 
 ### What I'm Currently Working On
 
