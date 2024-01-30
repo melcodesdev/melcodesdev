@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm passionate about building. From designing, coding, crafting beautiful user interfaces to optimizing user experiences, I turn ideas into built projects. 
+I turn ideas into built projects. 
 
 ### What I'm Currently Working On
 
