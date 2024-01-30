@@ -12,6 +12,6 @@ I do web, app, and games design and development. When I don't, I bike through hi
 
 ### Let's Collaborate
 
-I'm looking forward to meeting and collaborating with fellow developers and creatives from around the world. I'm always open to exciting collaborations on development projects, feel free to reach out. Let's create something amazing together!
+I'm always open to exciting collaborations on development projects, feel free to reach out. Let's create something amazing together!
 
 
