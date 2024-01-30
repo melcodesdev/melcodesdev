@@ -2,7 +2,7 @@
 
 ### About Me
 
-I do web, app, and games design and development. 
+I do web, app, and games design and/or development. 
 
 ### What I'm Currently Working On
 
