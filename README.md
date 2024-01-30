@@ -2,8 +2,7 @@
 
 ### About Me
 
-I do web, app, and games design and development. When I don't, I like to cook and bike through hills, forests, and ricefields. 
-
+I do web, app, and games design and development. 
 
 ### What I'm Currently Working On
 
