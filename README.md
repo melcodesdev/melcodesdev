@@ -6,8 +6,7 @@ I do web, app, and games design and/or development.
 
 ### What I'm Currently Working On
 
-- Designing and developing game and site projects
-- Starting and finishing some courses
+- Designing and developing game and two sites projects
 
 ### Let's Collaborate
 
