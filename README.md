@@ -2,11 +2,11 @@
 
 ### About Me
 
-I do web, app, and games design and/or development. 
+I do web, app, and games design and development. 
 
 ### What I'm Currently Working On
 
-- Designing and developing game and two sites projects
+- Designing and developing a game and two sites projects
 
 ### Let's Collaborate
 
